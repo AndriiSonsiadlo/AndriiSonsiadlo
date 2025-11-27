@@ -81,7 +81,9 @@
 ![Valgrind](https://img.shields.io/badge/Valgrind-black?style=for-the-badge&logoColor=white)
 
 ### Environments
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=FF6347)
+![Debian](https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=debian&logoColor=FF0000)
+![Kali](https://img.shields.io/badge/Kali-black?style=for-the-badge&logo=kali-linux&logoColor=557C94)
 ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=0078D4)
 <br/>
 ![PyCharm](https://img.shields.io/badge/PyCharm-black?style=for-the-badge&logo=pycharm)
