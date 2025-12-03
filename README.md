@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋 I'm Andrii Sonsiadlo</h1>
+<h1 align="center"> Hi 👋 I'm Andrii</h1>
 
 <p align="center"><code>I love exploring new technologies, improving my coding skills, and building projects that challenge me ⚡</code></p>
 
