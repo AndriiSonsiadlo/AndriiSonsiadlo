@@ -1,37 +1,46 @@
-<h1 align="center"> Hi 👋 I'm Andrii</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=7731F7&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=1000&lines=%F0%9F%91%8B++Hi+there!+I'm+Andrii)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=500&color=A836F7&background=FFFFFF00&center=true&vCenter=true&random=true&width=900&lines=%F0%9F%9B%A0%EF%B8%8F+Software+Engineer;%F0%9F%8E%93+Computer+Science+Learner;%F0%9F%A7%A9+Problem+Solver;%F0%9F%92%BB+C%2B%2B+%26+Python+Developer;%F0%9F%A4%96+ML+%2F+AI+Enthusiast;%F0%9F%95%B8%EF%B8%8F+Full-Stack+Web+Developer)](https://git.io/typing-svg)
 
 <p align="center"><code>I love exploring new technologies, improving my coding skills, and building projects that challenge me ⚡</code></p>
 
+
 <p align="center">
 <a href="https://www.buymeacoffee.com/andriisonsu" target="_blank"><img alt="" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
-<a href="https://ko-fi.com/AndriiSonsiadlo" target="_blank"><img alt="" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" style="vertical-align:center" /></a>
+<a href="https://ko-fi.com/AndriiSonsiadlo" target="_blank"><img alt="" src="https://img.shields.io/badge/Ko--fi-c04a4b?style=for-the-badge&logo=ko-fi&logoColor=white" style="vertical-align:center" /></a>
 <br/>
+<a href="mailto:andrii.sonsiadlo@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Email-000?logo=gmail&logoColor=red&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://linkedin.com/in/AndriiSonsiadlo" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://leetcode.com/in/AndriiSonsiadlo" target="_blank"><img alt="" src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=white" style="vertical-align:center" /></a>
 </p>
 
+<div align="center">
+
 ## 💻 Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=ffdd54)
+### 🧑‍💻 Programming Languages
+
 ![C++](https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=c%2B%2B&logoColor=0066b3)
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=0066b3)
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br/>
 ![TypeScript](https://img.shields.io/badge/TS-black?style=for-the-badge&logo=typescript&logoColor=2b7cd6)
 ![JavaScript](https://img.shields.io/badge/JS-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css&logoColor=167bc4)
 
-### Backend
+### 🧠 Backend
+
 ![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=147551)
 ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![Celery](https://img.shields.io/badge/Celery-black?style=for-the-badge&logo=celery&logoColor=37B24D)
 ![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis&logoColor=DC382D)
+<br/>
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-black?style=for-the-badge&logo=rabbitmq&logoColor=FF6600)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-black?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-black?style=for-the-badge&logo=socket.io&logoColor=white)
 
-### Frontend
+### 🎨 Frontend
+
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite&logoColor=646CFF)
@@ -41,13 +50,15 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=684a96)
 ![Chart.js](https://img.shields.io/badge/Chart.js-black?style=for-the-badge&logo=chartdotjs&logoColor=FF6384)
 
-### Databases
+### 🗄️ Databases
+
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=5597c9)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=4a72e8)
 ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=for-the-badge&logo=mariadb&logoColor=025770)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=13AA52)
 
-### Machine Learning & Data Science
+### 🤖 Machine Learning & Data Science
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![Keras](https://img.shields.io/badge/Keras-black?style=for-the-badge&logo=keras&logoColor=D00000)
@@ -59,8 +70,8 @@
 ![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy&logoColor=166ac7)
 ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-black.svg?logo=matplotlib&logoColor=1770a3&style=for-the-badge)
 
-    
-### DevOps & Cloud
+### ☁️ DevOps & Cloud
+
 ![Docker](https://custom-icon-badges.demolab.com/badge/Docker-black.svg?logo=docker&logoColor=2496ED&style=for-the-badge)
 ![GitLab CI/CD](https://custom-icon-badges.demolab.com/badge/GitLab%20CI/CD-black.svg?logo=gitlab&logoColor=FC6D26&style=for-the-badge)
 ![Jenkins](https://custom-icon-badges.demolab.com/badge/Jenkins-black.svg?logo=jenkins&logoColor=D24939&style=for-the-badge)
@@ -73,14 +84,16 @@
 ![CMake](https://custom-icon-badges.demolab.com/badge/CMake-black.svg?logo=cmake&logoColor=7a49f5&style=for-the-badge)
 ![Make](https://custom-icon-badges.demolab.com/badge/Make-black.svg?logo=make&logoColor=427819&style=for-the-badge)
 
-### Testing & Debugging
+### 🧪 Testing & Debugging
+
 ![PyTest](https://img.shields.io/badge/PyTest-black?style=for-the-badge&logo=pytest&logoColor=2b7cd6)
 ![Selenium](https://custom-icon-badges.demolab.com/badge/Selenium-black.svg?logo=selenium&logoColor=43B02A&style=for-the-badge)
 ![Google Test](https://img.shields.io/badge/Google%20Test-black?style=for-the-badge&logoColor=black)
 ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-black?style=for-the-badge&logoColor=2d7d34)
 ![Valgrind](https://img.shields.io/badge/Valgrind-black?style=for-the-badge&logoColor=white)
 
-### Environments
+### 🖥️ Environments
+
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=FF6347)
 ![Debian](https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=debian&logoColor=FF0000)
 ![Kali](https://img.shields.io/badge/Kali-black?style=for-the-badge&logo=kali-linux&logoColor=557C94)
@@ -91,7 +104,8 @@
 ![CLion](https://img.shields.io/badge/Clion-black?style=for-the-badge&logo=clion)
 ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-black.svg?logo=visualstudio&style=for-the-badge)
 
-### Version Control
+### 🌱 Version Control
+
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=F05033)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-black?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
@@ -114,4 +128,4 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
+</div>
