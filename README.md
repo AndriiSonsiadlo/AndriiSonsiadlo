@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=7731F7&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=1000&lines=%F0%9F%91%8B++Hi+there!+I'm+Andrii)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=500&color=A836F7&background=FFFFFF00&center=true&vCenter=true&random=true&width=900&lines=%F0%9F%9B%A0%EF%B8%8F+Software+Engineer;%F0%9F%8E%93+Computer+Science+Learner;%F0%9F%A7%A9+Problem+Solver;%F0%9F%92%BB+C%2B%2B+%26+Python+Developer;%F0%9F%A4%96+ML+%2F+AI+Enthusiast;%F0%9F%95%B8%EF%B8%8F+Full-Stack+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=18&duration=3500&pause=500&color=A836F7&background=FFFFFF00&center=true&vCenter=true&width=900&lines=🛠%EF%B8%8F+Software+Engineer;💻+C%2B%2B+%26+Python+Developer;🤖+ML+%2F+AI+Enthusiast;🕸%EF%B8%8F+Full-Stack+Web+Developer;🧩+Problem+Solver;🎓+Computer+Science+Learner)](https://git.io/typing-svg)
 
 <p align="center"><code>I love exploring new technologies, improving my coding skills, and building projects that challenge me ⚡</code></p>
 
