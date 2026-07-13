@@ -15,9 +15,9 @@
 
 <div align="center">
 
-## 💻 Tech Stack
+## Tech Stack
 
-### 🧑‍💻 Programming Languages
+### Programming Languages
 
 ![C++](https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=c%2B%2B&logoColor=0066b3)
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=0066b3)
@@ -28,7 +28,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css&logoColor=167bc4)
 
-### 🧠 Backend
+### Backend
 
 ![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=147551)
 ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=009688)
@@ -39,7 +39,7 @@
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-black?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-black?style=for-the-badge&logo=socket.io&logoColor=white)
 
-### 🎨 Frontend
+### Frontend
 
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -50,14 +50,14 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=684a96)
 ![Chart.js](https://img.shields.io/badge/Chart.js-black?style=for-the-badge&logo=chartdotjs&logoColor=FF6384)
 
-### 🗄️ Databases
+### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=5597c9)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=4a72e8)
 ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=for-the-badge&logo=mariadb&logoColor=025770)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=13AA52)
 
-### 🤖 Machine Learning & Data Science
+### Machine Learning & Data Science
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
@@ -70,7 +70,7 @@
 ![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy&logoColor=166ac7)
 ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-black.svg?logo=matplotlib&logoColor=1770a3&style=for-the-badge)
 
-### ☁️ DevOps & Cloud
+### DevOps & Cloud
 
 ![Docker](https://custom-icon-badges.demolab.com/badge/Docker-black.svg?logo=docker&logoColor=2496ED&style=for-the-badge)
 ![GitLab CI/CD](https://custom-icon-badges.demolab.com/badge/GitLab%20CI/CD-black.svg?logo=gitlab&logoColor=FC6D26&style=for-the-badge)
@@ -84,7 +84,7 @@
 ![CMake](https://custom-icon-badges.demolab.com/badge/CMake-black.svg?logo=cmake&logoColor=7a49f5&style=for-the-badge)
 ![Make](https://custom-icon-badges.demolab.com/badge/Make-black.svg?logo=make&logoColor=427819&style=for-the-badge)
 
-### 🧪 Testing & Debugging
+### Testing & Debugging
 
 ![PyTest](https://img.shields.io/badge/PyTest-black?style=for-the-badge&logo=pytest&logoColor=2b7cd6)
 ![Selenium](https://custom-icon-badges.demolab.com/badge/Selenium-black.svg?logo=selenium&logoColor=43B02A&style=for-the-badge)
@@ -92,7 +92,7 @@
 ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-black?style=for-the-badge&logoColor=2d7d34)
 ![Valgrind](https://img.shields.io/badge/Valgrind-black?style=for-the-badge&logoColor=white)
 
-### 🖥️ Environments
+### Environments
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=FF6347)
 ![Debian](https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=debian&logoColor=FF0000)
@@ -104,7 +104,7 @@
 ![CLion](https://img.shields.io/badge/Clion-black?style=for-the-badge&logo=clion)
 ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-black.svg?logo=visualstudio&style=for-the-badge)
 
-### 🌱 Version Control
+### Version Control
 
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=F05033)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
@@ -114,7 +114,7 @@
 
 ![](https://leetcard.jacoblin.cool/AndriiSonsiadlo?theme=dark&font=Aldrich)
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AndriiSonsiadlo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=AndriiSonsiadlo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
