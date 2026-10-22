@@ -1,131 +1,94 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=7731F7&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=1000&lines=%F0%9F%91%8B++Hi+there!+I'm+Andrii)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=18&duration=3500&pause=500&color=A836F7&background=FFFFFF00&center=true&vCenter=true&width=900&lines=🛠%EF%B8%8F+Software+Engineer;💻+C%2B%2B+%26+Python+Developer;🤖+ML+%2F+AI+Enthusiast;🕸%EF%B8%8F+Full-Stack+Web+Developer;🧩+Problem+Solver;🎓+Computer+Science+Learner)](https://git.io/typing-svg)
-
-<p align="center"><code>I love exploring new technologies, improving my coding skills, and building projects that challenge me ⚡</code></p>
-
-
-<p align="center">
-<a href="https://www.buymeacoffee.com/andriisonsu" target="_blank"><img alt="" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
-<a href="https://ko-fi.com/AndriiSonsiadlo" target="_blank"><img alt="" src="https://img.shields.io/badge/Ko--fi-c04a4b?style=for-the-badge&logo=ko-fi&logoColor=white" style="vertical-align:center" /></a>
-<br/>
-<a href="mailto:andrii.sonsiadlo@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Email-000?logo=gmail&logoColor=red&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://linkedin.com/in/AndriiSonsiadlo" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://leetcode.com/in/AndriiSonsiadlo" target="_blank"><img alt="" src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=white" style="vertical-align:center" /></a>
-</p>
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7731F7,50:A836F7,100:00D4FF&height=220&section=header&text=Andrii%20Sonsiadlo&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20C%2B%2B%20%E2%80%A2%20Python%20%E2%80%A2%20AI&descAlignY=58&descSize=20" width="100%"/>
 
 <div align="center">
 
-## Tech Stack
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A836F7&center=true&vCenter=true&width=620&lines=%F0%9F%91%8B+Hi+there!+I'm+Andrii;%F0%9F%9B%A0%EF%B8%8F+Software+Engineer;%E2%9A%99%EF%B8%8F+C%2B%2B+%26+Python+Developer;%F0%9F%A4%96+Building+with+LLMs+%26+AI+agents;%F0%9F%95%B8%EF%B8%8F+Full-Stack+Web+Developer;%F0%9F%A7%A9+Problem+Solver" alt="Typing SVG" /></a>
 
-### Programming Languages
-
-![C++](https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=c%2B%2B&logoColor=0066b3)
-![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=0066b3)
-![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=ffdd54)
+<a href="https://linkedin.com/in/AndriiSonsiadlo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:andrii.sonsiadlo@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/AndriiSonsiadlo"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://www.buymeacoffee.com/andriisonsu"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
+<a href="https://ko-fi.com/AndriiSonsiadlo"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
 <br/>
-![TypeScript](https://img.shields.io/badge/TS-black?style=for-the-badge&logo=typescript&logoColor=2b7cd6)
-![JavaScript](https://img.shields.io/badge/JS-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css&logoColor=167bc4)
-
-### Backend
-
-![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=147551)
-![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Celery](https://img.shields.io/badge/Celery-black?style=for-the-badge&logo=celery&logoColor=37B24D)
-![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis&logoColor=DC382D)
-<br/>
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-black?style=for-the-badge&logo=rabbitmq&logoColor=FF6600)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-black?style=for-the-badge&logo=openapiinitiative&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-black?style=for-the-badge&logo=socket.io&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite&logoColor=646CFF)
-![npm](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm&logoColor=CB3837)
-<br/>
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=684a96)
-![Chart.js](https://img.shields.io/badge/Chart.js-black?style=for-the-badge&logo=chartdotjs&logoColor=FF6384)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=5597c9)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=4a72e8)
-![MariaDB](https://img.shields.io/badge/MariaDB-black?style=for-the-badge&logo=mariadb&logoColor=025770)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=13AA52)
-
-### Machine Learning & Data Science
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![Keras](https://img.shields.io/badge/Keras-black?style=for-the-badge&logo=keras&logoColor=D00000)
-![NumPy](https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=numpy&logoColor=005f80)
-<br/>
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=431fd1)
-![OpenCV](https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=opencv&logoColor=ed4ac4)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy&logoColor=166ac7)
-![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-black.svg?logo=matplotlib&logoColor=1770a3&style=for-the-badge)
-
-### DevOps & Cloud
-
-![Docker](https://custom-icon-badges.demolab.com/badge/Docker-black.svg?logo=docker&logoColor=2496ED&style=for-the-badge)
-![GitLab CI/CD](https://custom-icon-badges.demolab.com/badge/GitLab%20CI/CD-black.svg?logo=gitlab&logoColor=FC6D26&style=for-the-badge)
-![Jenkins](https://custom-icon-badges.demolab.com/badge/Jenkins-black.svg?logo=jenkins&logoColor=D24939&style=for-the-badge)
-<br/>
-![Gerrit](https://custom-icon-badges.demolab.com/badge/Gerrit-black.svg?logoColor=EEEEEE&style=for-the-badge)
-![AWS](https://custom-icon-badges.demolab.com/badge/AWS-black.svg?logo=aws&logoColor=FF9900&style=for-the-badge)
-![ELK Stack](https://custom-icon-badges.demolab.com/badge/ELK%20Stack-black.svg?logo=elasticsearch&logoColor=333df5&style=for-the-badge)
-![Cisco](https://custom-icon-badges.demolab.com/badge/Cisco-black.svg?logo=cisco&logoColor=27a8d9&style=for-the-badge)
-<br/>
-![CMake](https://custom-icon-badges.demolab.com/badge/CMake-black.svg?logo=cmake&logoColor=7a49f5&style=for-the-badge)
-![Make](https://custom-icon-badges.demolab.com/badge/Make-black.svg?logo=make&logoColor=427819&style=for-the-badge)
-
-### Testing & Debugging
-
-![PyTest](https://img.shields.io/badge/PyTest-black?style=for-the-badge&logo=pytest&logoColor=2b7cd6)
-![Selenium](https://custom-icon-badges.demolab.com/badge/Selenium-black.svg?logo=selenium&logoColor=43B02A&style=for-the-badge)
-![Google Test](https://img.shields.io/badge/Google%20Test-black?style=for-the-badge&logoColor=black)
-![Robot Framework](https://img.shields.io/badge/Robot%20Framework-black?style=for-the-badge&logoColor=2d7d34)
-![Valgrind](https://img.shields.io/badge/Valgrind-black?style=for-the-badge&logoColor=white)
-
-### Environments
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=FF6347)
-![Debian](https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=debian&logoColor=FF0000)
-![Kali](https://img.shields.io/badge/Kali-black?style=for-the-badge&logo=kali-linux&logoColor=557C94)
-![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=0078D4)
-<br/>
-![PyCharm](https://img.shields.io/badge/PyCharm-black?style=for-the-badge&logo=pycharm)
-![WebStorm](https://img.shields.io/badge/WebStorm-black?style=for-the-badge&logo=webstorm)
-![CLion](https://img.shields.io/badge/Clion-black?style=for-the-badge&logo=clion)
-![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-black.svg?logo=visualstudio&style=for-the-badge)
-
-### Version Control
-
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=F05033)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-black?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
-
-## LeetCode Stats
-
-![](https://leetcard.jacoblin.cool/AndriiSonsiadlo?theme=dark&font=Aldrich)
-
-## GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=AndriiSonsiadlo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=AndriiSonsiadlo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriiSonsiadlo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=Jupyter%20Notebook,kvlang)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=AndriiSonsiadlo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://komarev.com/ghpvc/?username=AndriiSonsiadlo&label=Profile%20views&color=7731F7&style=flat-square" alt="profile views"/>
 
 </div>
+
+---
+
+## 🧑‍💻 About me
+
+```python
+class Andrii:
+    role       = "Software Engineer"
+    languages  = ["C++", "Python", "TypeScript"]
+    focus      = ["systems & networking", "backend", "ML / LLM tooling"]
+    currently  = "building AI-assisted tools and live web apps"
+    fun_fact   = "I solve Advent of Code in C++ for fun 🎄"
+
+    def motto(self):
+        return "Explore new tech, write clean code, ship things that challenge me ⚡"
+```
+
+## 🛠️ Tech stack
+
+<div align="center">
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=cpp,c,py,ts,js,html,css&theme=dark" />
+
+**Backend & Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=django,fastapi,redis,rabbitmq,react,nextjs,vite,tailwind,bootstrap&theme=dark" />
+
+**Data, ML & Databases**<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,postgres,mysql,mongodb&theme=dark" />
+
+**DevOps, Tools & Environments**<br/>
+<img src="https://skillicons.dev/icons?i=docker,aws,gitlab,jenkins,elasticsearch,cmake,selenium,linux,ubuntu,debian,kali,git,github&theme=dark" />
+
+</div>
+
+## 🚀 Featured projects
+
+<div align="center">
+
+<a href="https://github.com/AndriiSonsiadlo/board-games-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AndriiSonsiadlo&repo=board-games-dashboard&theme=radical&hide_border=true&bg_color=0d1117" width="49%"/></a>
+<a href="https://github.com/AndriiSonsiadlo/alpha-oracle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AndriiSonsiadlo&repo=alpha-oracle&theme=radical&hide_border=true&bg_color=0d1117" width="49%"/></a>
+<a href="https://github.com/AndriiSonsiadlo/code-to-txt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AndriiSonsiadlo&repo=code-to-txt&theme=radical&hide_border=true&bg_color=0d1117" width="49%"/></a>
+<a href="https://github.com/AndriiSonsiadlo/starmap"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AndriiSonsiadlo&repo=starmap&theme=radical&hide_border=true&bg_color=0d1117" width="49%"/></a>
+<a href="https://github.com/AndriiSonsiadlo/srp-chat-cpp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AndriiSonsiadlo&repo=srp-chat-cpp&theme=radical&hide_border=true&bg_color=0d1117" width="49%"/></a>
+<a href="https://github.com/AndriiSonsiadlo/ConnectFour-game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AndriiSonsiadlo&repo=ConnectFour-game&theme=radical&hide_border=true&bg_color=0d1117" width="49%"/></a>
+
+</div>
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AndriiSonsiadlo&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndriiSonsiadlo&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&hide=Jupyter%20Notebook,kvlang" height="170"/>
+
+<img src="https://streak-stats.demolab.com/?user=AndriiSonsiadlo&theme=radical&hide_border=true&background=0d1117" width="60%"/>
+
+<img src="https://leetcard.jacoblin.cool/AndriiSonsiadlo?theme=dark&font=Fira%20Code&ext=heatmap" />
+
+</div>
+
+## 🐍 Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndriiSonsiadlo/AndriiSonsiadlo/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndriiSonsiadlo/AndriiSonsiadlo/output/snake-light.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/AndriiSonsiadlo/AndriiSonsiadlo/output/snake-dark.svg" width="100%" />
+</picture>
+
+<div align="center">
+
+### ✍️ Random dev quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:A836F7,100:7731F7&height=120&section=footer" width="100%"/>
