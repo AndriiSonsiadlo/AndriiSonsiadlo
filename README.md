@@ -11,7 +11,7 @@
 <a href="https://www.buymeacoffee.com/andriisonsu"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 <a href="https://ko-fi.com/AndriiSonsiadlo"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
 <br/>
-<img src="https://komarev.com/ghpvc/?username=AndriiSonsiadlo&label=Profile%20views&color=7731F7&style=flat-square" alt="profile views"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=AndriiSonsiadlo.AndriiSonsiadlo&left_text=Profile%20views&left_color=%23555&right_color=%237731F7" alt="profile views"/>
 
 </div>
 
